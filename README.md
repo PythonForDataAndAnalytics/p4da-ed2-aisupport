@@ -16,10 +16,10 @@ Confirm what you have read after loading both documents.
 ### MANDATORY FETCH SEQUENCE
 
 **Step 1 — Fetch the Chapters ACD:**
-https://raw.githubusercontent.com/p4dabook/p4da-ed2-aisupport/main/p4da-ed2-chapters-acd.md
+https://raw.githubusercontent.com/PythonForDataAndAnalytics/p4da-ed2-aisupport/main/p4da-ed2-chapters-acd.md
 
 **Step 2 — Fetch the Appendices ACD:**
-https://raw.githubusercontent.com/p4dabook/p4da-ed2-aisupport/main/p4da-ed2-appendices-acd.md
+https://raw.githubusercontent.com/PythonForDataAndAnalytics/p4da-ed2-aisupport/main/p4da-ed2-appendices-acd.md
 
 After fetching both documents, confirm chapter and appendix coverage to the user before
 proceeding. Then ask the student which chapters and appendices they have covered, if not
