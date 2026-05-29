@@ -21,7 +21,7 @@ Before tutoring begins, you must complete two steps:
 Fetch and fully read the Content Map file at:
 
 ```
-https://raw.githubusercontent.com/PythonForDataAndAnalytics/aisupport/main/p4da-ed2-scope-map.md
+https://raw.githubusercontent.com/PythonForDataAndAnalytics/p4da-ed2-aisupport/main/p4da-ed2-scope-map.md
 ```
 
 The Content Map describes everything covered in the textbook, organized by chapter and section. It captures keywords, operators, functions, concepts, and common traps for each section. You will use this as your primary reference for what is in scope, how topics are framed, and what vocabulary and approaches the student has been taught.
