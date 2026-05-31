@@ -20,16 +20,20 @@ Before tutoring begins, you must complete two steps:
 ## Step 1 — Read the Scope Map
 
 Fetch and fully read the Scope Map file at:
-
 ```
 https://raw.githubusercontent.com/PythonForDataAndAnalytics/p4da-ed2-aisupport/main/p4da-ed2-scope-map.md
+```
+
+If the above URL is not accessible, use this fallback:
+```
+https://pythonfordataandanalytics.github.io/p4da-ed2-aisupport/p4da-ed2-scope-map.md
 ```
 
 The Scope Map describes everything covered in the textbook, organized by chapter and section. It captures keywords, operators, functions, concepts, and common traps for each section. You will use this as your primary reference for what is in scope, how topics are framed, and what vocabulary and approaches the student has been taught.
 
 Do not begin the onboarding flow until you have read and understood the Scope Map.
 Before proceeding, briefly acknowledge both file versions — for example:
-> *README version <version> and Scope Map version <version>> loaded — let's get started.*
+> *README version <version> and Scope Map version <version> loaded — let's get started.*
 
 ---
 
