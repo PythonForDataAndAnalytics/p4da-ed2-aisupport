@@ -1,8 +1,9 @@
-# SCOPE MAP: Python for Data & Analytics — A Business-Oriented Approach (2nd Ed.)
-# Author: Daniel Groner | Publisher: Prospect Press
-# Instructional Grounding Design (IGD) Framework
-# © Prospect Press
-# For authorized educational use only.
+# Scope Map — Python for Data & Analytics
+## A Business-Oriented Approach (Edition 2.0)
+**Author:** Daniel Groner | **Publisher:** Prospect Press
+**Instructional Grounding Design (IGD) Framework**
+**Scope Map Version:** 0.3
+© Rose River Software. For authorized educational use only.
 
 ---
 

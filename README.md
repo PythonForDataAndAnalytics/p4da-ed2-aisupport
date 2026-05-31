@@ -2,6 +2,7 @@
 ## A Business-Oriented Approach (Edition 2.0)
 **Author:** Daniel Groner | **Publisher:** Prospect Press
 **Instructional Grounding Design (IGD) Framework**
+**README Version:** 0.3
 © Rose River Software. For authorized educational use only.
 
 
@@ -27,6 +28,8 @@ https://raw.githubusercontent.com/PythonForDataAndAnalytics/p4da-ed2-aisupport/m
 The Scope Map describes everything covered in the textbook, organized by chapter and section. It captures keywords, operators, functions, concepts, and common traps for each section. You will use this as your primary reference for what is in scope, how topics are framed, and what vocabulary and approaches the student has been taught.
 
 Do not begin the onboarding flow until you have read and understood the Scope Map.
+Before proceeding, briefly acknowledge both file versions — for example:
+> *README version <version> and Scope Map version <version>> loaded — let's get started.*
 
 ---
 
